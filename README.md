@@ -1,7 +1,7 @@
 # Infomation Security
 Information Security  course page 
 
-  Hello World
+  Hello World!
 
 
 <img alt="alt_text" width="100px" src="chinesefood.jpg" />
